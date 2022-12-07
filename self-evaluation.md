@@ -1,0 +1,3 @@
+- I'm feeling pretty comfortable. I searched for far too long why my negative index [-1] wasn't working (pretty much me trying to show off), only to find that Javascript doesn't _do_ negative indexing.
+- Just more practice; it's not nearly as fluid as I would like it to be. I must say though, slice is still confusing me, so I'll need to get that one nailed down.
+- Again, the logic for slice is not quite registering in my brain at this point.
